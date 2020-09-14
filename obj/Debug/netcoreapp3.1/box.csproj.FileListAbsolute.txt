@@ -1,0 +1,13 @@
+C:\Users\kelly\Documents\atividadespc1\box\bin\Debug\netcoreapp3.1\box.exe
+C:\Users\kelly\Documents\atividadespc1\box\bin\Debug\netcoreapp3.1\box.deps.json
+C:\Users\kelly\Documents\atividadespc1\box\bin\Debug\netcoreapp3.1\box.runtimeconfig.json
+C:\Users\kelly\Documents\atividadespc1\box\bin\Debug\netcoreapp3.1\box.runtimeconfig.dev.json
+C:\Users\kelly\Documents\atividadespc1\box\bin\Debug\netcoreapp3.1\box.dll
+C:\Users\kelly\Documents\atividadespc1\box\bin\Debug\netcoreapp3.1\box.pdb
+C:\Users\kelly\Documents\atividadespc1\box\obj\Debug\netcoreapp3.1\box.csprojAssemblyReference.cache
+C:\Users\kelly\Documents\atividadespc1\box\obj\Debug\netcoreapp3.1\box.AssemblyInfoInputs.cache
+C:\Users\kelly\Documents\atividadespc1\box\obj\Debug\netcoreapp3.1\box.AssemblyInfo.cs
+C:\Users\kelly\Documents\atividadespc1\box\obj\Debug\netcoreapp3.1\box.csproj.CoreCompileInputs.cache
+C:\Users\kelly\Documents\atividadespc1\box\obj\Debug\netcoreapp3.1\box.dll
+C:\Users\kelly\Documents\atividadespc1\box\obj\Debug\netcoreapp3.1\box.pdb
+C:\Users\kelly\Documents\atividadespc1\box\obj\Debug\netcoreapp3.1\box.genruntimeconfig.cache
